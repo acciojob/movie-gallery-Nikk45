@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+img{
+	width:50px;
+}
+.container-fluid{
+	width:100%;
+}
+.row{
+	display:flex;
+	gap:2px;
+	width:100%;
+	justify-content:center;
+}
+
+
+
